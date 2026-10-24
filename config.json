@@ -1,10 +1,14 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "min_version": "1.6",
   "discord": "https://discord.gg/NcWyrSSVEw",
   "pack_url": "https://cdn.discordapp.com/attachments/1534313606538203286/1563294724712828938/babadjii.rar?ex=6ade6caa&is=6add1b2a&hm=788ae531982061efdadf7e7d47f8c213e72c0f3e2c7489f52bfbbf2b4ef8adbd&",
-  "pack_name": "Pack_babadjii.rar",
+  "pack_name": "Pack_Babadjii.rar",
   "news_title": "Nouveautés",
-  "news": "Nouveaux pack !",
-  "update_exe_url": ""
+  "news": "Version 1.7 : suggestions + fenêtre redimensionnable",
+  "update_exe_url": "blob:https://grok.com/355f5688-9e1f-4c49-a86a-de7c46545fe9",
+  "suggestion_webhook": "https://discord.com/api/webhooks/1563686286127013948/XGGhA1kT6x_d6fF8Kd53V3Y63W2pPZjvoPZDw7RqYqbR2Pw4KR7G0JGwUCxBNfTDydjF",
+  "access_mode": "open",
+  "whitelist": "",
+  "blacklist": ""
 }
