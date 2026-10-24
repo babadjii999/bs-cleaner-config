@@ -6,7 +6,7 @@
   "pack_name": "Pack_Babadjii.rar",
   "news_title": "Nouveautés",
   "news": "Version 1.7 : suggestions + fenêtre redimensionnable",
-  "update_exe_url": "blob:https://grok.com/355f5688-9e1f-4c49-a86a-de7c46545fe9",
+  "update_exe_url": "https://github.com/babadjii999/bs-cleaner-config/releases/download/v1.7/BS_Cleaner.exe",
   "suggestion_webhook": "https://discord.com/api/webhooks/1563686286127013948/XGGhA1kT6x_d6fF8Kd53V3Y63W2pPZjvoPZDw7RqYqbR2Pw4KR7G0JGwUCxBNfTDydjF",
   "access_mode": "open",
   "whitelist": "",
