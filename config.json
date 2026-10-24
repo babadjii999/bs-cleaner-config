@@ -1,6 +1,6 @@
 {
-  "version": "1.7",
-  "min_version": "1.8",
+  "version": "1.8",
+  "min_version": "1.7",
   "access_mode": "panel",
   "supabase_url": "https://fiswwlndrpehxwccrmsy.supabase.co",
   "supabase_key": "sb_publishable_2d--7SOPIKHjzfMLAByRWQ_0g90FkHQ",
